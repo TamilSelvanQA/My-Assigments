@@ -8,7 +8,7 @@ public class Firefox {
 		int releaseYear = 1998;
 		char browserLogo = 'f';
 		System.out.println(browserversion +" "+browserName +" "+isVisible +" "+releaseYear +" "+browserLogo);
-		System.out.println("What is my brwoser name : "  +browserName);
+		System.out.println("What is my browser name : "  +browserName);
 		
 	}
 
